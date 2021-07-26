@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "illuminate/support": "^5.0",
+        "illuminate/support": "^8.0",
         "mnvx/unoconv": "^1.0"
     },
     "autoload": {
